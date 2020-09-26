@@ -1,0 +1,19 @@
+Main insights resulting from above barplots and contingency tables are:
+
+* only poisonous mushrooms have convex cap-shape; only edible mushrooms have sunken cap-shape
+* only poisonous mushrooms have cap-surface with grooves
+* only edible mushrooms have green or purple cap-color
+* odor is strongly indicative of what mushrooms are (edible/poisonous)
+* only poisonous mushrooms have buff or green gill color
+* only edible mushrooms have red or orange gill color
+* only edible mushrooms have rooted stalk root
+* stalk_color_above_ring and stalk_color_below_ring are relevant features for out classification problem
+* only edible mushrooms have brown veil color
+* only poisonous mushrooms have yellow veil color
+* only poisonous mushrooms do not have rings
+* only edible mushrooms have flaring ring type
+* only poisonous mushrooms have none ring type
+* only edible mushrooms have black, orange, purple or yellow spore print color
+* only poisonous mushrooms have green spore print color
+* only edible mushrooms have abundant or numerous population
+* only edible musrooms have waste type habitat
